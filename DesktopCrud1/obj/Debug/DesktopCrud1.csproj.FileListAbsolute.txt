@@ -1,0 +1,10 @@
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\bin\Debug\DesktopCrud1.exe.config
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\bin\Debug\DesktopCrud1.exe
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\bin\Debug\DesktopCrud1.pdb
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.csproj.AssemblyReference.cache
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.DesktopCrud.resources
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.Properties.Resources.resources
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.csproj.GenerateResource.cache
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.csproj.CoreCompileInputs.cache
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.exe
+C:\Users\Palli Sindhu Reddy\source\repos\DesktopCrud1\DesktopCrud1\obj\Debug\DesktopCrud1.pdb
